@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-17 19:19:13,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
+2026-04-19 19:02:51,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
@@ -15,9 +15,6 @@ CCTV-6,https://iptv.catvod.com/live.php?id=cctv6$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV-6%20%E7%94%B5%E5%BD%B1$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV-6$订阅源
-CCTV-6,http://pull-hls-f11.douyincdn.com/media/stream-695661786906493612.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776982413&major_anchor_level=common&sign=f9b38953294dc9382f27b29d0cbc0202&t_id=037-20260417061332958A24DAFCB89C5600AB-h4zSDn$订阅源
-CCTV-6,http://pull-hls-f11.douyincdn.com/media/stream-695661786906493612.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776982413&major_anchor_level=common&sign=f9b38953294dc9382f27b29d0cbc0202&t_id=037-20260417061332958A24DAFCB89C5600AB-h4zSDn$订阅源
-CCTV-6,http://pull-hls-f11.douyincdn.com/media/stream-695661786906493612.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776906237&major_anchor_level=common&sign=ddcd6089cb8edea3eb08cddfb4729b21&t_id=037-20260416090356FD2B01904532B1DF9B07-RJ3RCM$订阅源
 CCTV-7,https://iptv.catvod.com/live.php?id=cctv7$订阅源
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV-7%20%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B$订阅源
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7$订阅源
@@ -54,8 +51,8 @@ CCTV-13,https://iptv.catvod.com/live.php?id=cctv13$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV-13%20%E6%96%B0%E9%97%BB$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV-13$订阅源
-CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695417071207187116.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773486844&major_anchor_level=common&sign=4c90bcfd86d44573b3da838fe8002650&t_id=037-20260307191403C100AF4F54F86D40782C-0Y2r2y$订阅源
-CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695446699977474732.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773710295&major_anchor_level=common&sign=e813ef8bf243558424c1815b821957c1&t_id=037-20260310091814B8A5ABDAA2CCCB7F614D-6dGMwb$订阅源
+CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
+CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=cctv14$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV-14%20%E5%B0%91%E5%84%BF$订阅源
@@ -76,8 +73,6 @@ CCTV-17,https://iptv.catvod.com/live.php?id=cctv17$订阅源
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17$订阅源
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17%20%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91$订阅源
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17$订阅源
-CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-118948282823344812.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773100588&major_anchor_level=common&sign=0a2a65437075fad16a3b5c028fce3936&t_id=037-202603030756275F53082918C89A46E14D-oDewtG$订阅源
-CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-407213179642053292.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773619479&major_anchor_level=common&sign=bc2d4a3036fd27024f2c218c2fea7c91&t_id=037-202603090804382D2980E60B5163A589BB-tclVJX$订阅源
 
 📡卫视频道,#genre#
 广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
@@ -87,13 +82,13 @@ CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-407213179642053292.m3u8?a
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$订阅源
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$订阅源
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$订阅源
+湖南卫视,https://v.iill.top/api/hnws/index.m3u8$订阅源
+湖南卫视,https://v.iill.top/api/hnws/index.m3u8$订阅源
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K%E5%8F%B0$订阅源
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86$订阅源
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
-湖南卫视,https://v.iill.top/api/hnws/index.m3u8$订阅源
-湖南卫视,https://v.iill.top/api/hnws/index.m3u8$订阅源
-北京卫视,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 北京卫视,https://v.iill.top/api/bjws/index.m3u8$订阅源
+北京卫视,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 湖北卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86$订阅源
 湖北卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
@@ -135,9 +130,9 @@ CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-407213179642053292.m3u8?a
 山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86$订阅源
 陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86$订阅源
 陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
+四川卫视,https://v.iill.top/api/scws/index.m3u8$订阅源
 四川卫视,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K%E5%8F%B0$订阅源
 四川卫视,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
-四川卫视,https://v.iill.top/api/scws/index.m3u8$订阅源
 深圳卫视,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 三沙卫视,https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86$订阅源
 天津卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
@@ -393,6 +388,8 @@ CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-407213179642053292.m3u8?a
 ☘️山西频道,#genre#
 定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd$订阅源
 定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd$订阅源
+平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd$订阅源
+平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd$订阅源
 武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd$订阅源
 武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd$订阅源
 祁县新闻综合,http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd$订阅源
@@ -442,11 +439,7 @@ CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-407213179642053292.m3u8?a
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8$订阅源
 
 🌊港·澳·台,#genre#
-翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/$订阅源
-翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/$订阅源
-翡翠台,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8$订阅源
-明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
 明珠台,http://r.jdshipin.com/ZQ4kN$订阅源
 明珠台,http://r.jdshipin.com/ZQ4kN$订阅源
 明珠台,http://r.jdshipin.com/jUx8K$订阅源
@@ -481,7 +474,6 @@ NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7
 靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf$订阅源
 靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf$订阅源
 靖天戏剧,https://cdn12.178.indevs.in/163189/177d541552f78003$订阅源
-天映经典,https://o11.163189.xyz/stream/live/ccm/$订阅源
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv$订阅源
 
 🎥咪咕直播,#genre#
@@ -507,6 +499,11 @@ CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B$订阅源
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8$订阅源
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&d=83b26bacf5397c013aff782b2c4287d0&k=c99bdac76cff6ddc27e750ba689b7d5b&t=1704368408$订阅源
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8$订阅源
+七龙珠,https://live.metshop.top/huya/11601966$订阅源
+七龙珠,https://live.metshop.top/huya/11601966$订阅源
+海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
+中华小当家,https://live.metshop.top/huya/11342413$订阅源
+猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
@@ -527,3 +524,11 @@ CCTV-15,https://iptv.catvod.com/live.php?id=CCTV-15$订阅源
 风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8$订阅源
 
 🏛经典剧场,#genre#
+笑傲江湖,https://live.metshop.top/huya/26355790$订阅源
+笑傲江湖,https://live.metshop.top/huya/23865142$订阅源
+天龙八部,https://live.metshop.top/huya/23903123$订阅源
+天龙八部,https://live.metshop.top/huya/20985816$订阅源
+西游记,https://live.metshop.top/huya/26355861$订阅源
+三国演义,https://live.metshop.top/huya/11602081$订阅源
+封神榜,https://live.metshop.top/huya/29465849$订阅源
+射雕英雄传,https://live.metshop.top/huya/23824164$订阅源
