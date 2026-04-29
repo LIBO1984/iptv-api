@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-27 20:08:35,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
+2026-04-29 19:51:18,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
@@ -45,12 +45,12 @@ CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=9$订阅源
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=10$订阅源
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=11$订阅源
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=12$订阅源
-CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
-CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=cctv13$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV-13%20%E6%96%B0%E9%97%BB$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV-13$订阅源
+CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
+CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=cctv14$订阅源
@@ -121,8 +121,6 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17$订阅源
 青海卫视,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 山东卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 山东卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86$订阅源
-山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
-山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
 山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86$订阅源
 陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86$订阅源
@@ -150,6 +148,7 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17$订阅源
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8$订阅源
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/720p.m3u8$订阅源
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8$订阅源
+浙江钱江,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8$订阅源
 浙江钱江,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8$订阅源
 浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed$订阅源
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8$订阅源
@@ -201,8 +200,6 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17$订阅源
 浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8$订阅源
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed$订阅源
 龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8$订阅源
-龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8$订阅源
-龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8$订阅源
 龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed$订阅源
 龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8$订阅源
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8$订阅源
@@ -212,6 +209,7 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17$订阅源
 象山电视台新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed$订阅源
 象山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8$订阅源
 衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed$订阅源
+萧山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8$订阅源
 萧山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8$订阅源
 萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed$订阅源
 萧山新闻综合,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8$订阅源
@@ -271,8 +269,6 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17$订阅源
 
 ☘️上海频道,#genre#
 第一财经,https://cdn3.163189.xyz/163189/dycj$订阅源
-第一财经,http://ls.qingting.fm/live/276.m3u8$订阅源
-第一财经,http://ls.qingting.fm/live/276.m3u8$订阅源
 
 ☘️重庆频道,#genre#
 
@@ -283,6 +279,7 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17$订阅源
 南京新闻综合,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8$订阅源
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd$订阅源
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd$订阅源
+靖江新闻综合,http://ls.qingting.fm/live/23797.m3u8$订阅源
 靖江新闻综合,http://ls.qingting.fm/live/23797.m3u8$订阅源
 
 ☘️辽宁频道,#genre#
@@ -325,8 +322,8 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17$订阅源
 陕西公共,http://ls.qingting.fm/live/1222.m3u8$订阅源
 
 ☘️福建频道,#genre#
-三明新闻综合,https://ls.qingting.fm/live/5022100/64k.m3u8$订阅源
 三明新闻综合,http://ls.qingting.fm/live/4885.m3u8$订阅源
+三明新闻综合,https://ls.qingting.fm/live/5022100/64k.m3u8$订阅源
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian$订阅源
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian$订阅源
 厦门卫视,https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv$订阅源
@@ -349,9 +346,9 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17$订阅源
 河北都市,rtmp://tv.pull.hebtv.com/jishi/dushipindao?t=2510710360&k=b43f406360a945d199904faf3b6e2c18$订阅源
 河北都市,https://event.pull.hebtv.com/jishi/dushipindao.m3u8$订阅源
 河北农民,https://event.pull.hebtv.com/jishi/nongminpindao.m3u8$订阅源
-河北农民,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd$订阅源
-河北农民,https://ls.qingting.fm/live/1650/64k.m3u8$订阅源
 河北农民,http://ls.qingting.fm/live/1650.m3u8$订阅源
+河北农民,https://ls.qingting.fm/live/1650/64k.m3u8$订阅源
+河北农民,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd$订阅源
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8$订阅源
 昌黎综合,https://jwcdnqx.hebyun.com.cn/zb/clzhpd/1500k/tzwj_video.m3u8$订阅源
 任丘文娱,https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8$订阅源
@@ -385,8 +382,6 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17$订阅源
 古县综合,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd$订阅源
 定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd$订阅源
 定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd$订阅源
-平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd$订阅源
-平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd$订阅源
 武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd$订阅源
 武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd$订阅源
 祁县新闻综合,http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd$订阅源
@@ -439,24 +434,24 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17$订阅源
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8$订阅源
 
 🌊港·澳·台,#genre#
+翡翠台,https://o11.163189.xyz/stream/tvb/fct/$订阅源
+翡翠台,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8$订阅源
-翡翠台,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-翡翠台,https://o11.163189.xyz/stream/tvb/fct/$订阅源
-明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
-明珠台,http://o11.163189.xyz/stream/tvb/mzt/$订阅源
-明珠台,http://o11.163189.xyz/stream/tvb/mzt/$订阅源
 明珠台,http://r.jdshipin.com/ZQ4kN$订阅源
 明珠台,http://r.jdshipin.com/ZQ4kN$订阅源
 明珠台,http://r.jdshipin.com/jUx8K$订阅源
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
+明珠台,http://o11.163189.xyz/stream/tvb/mzt/$订阅源
+明珠台,http://o11.163189.xyz/stream/tvb/mzt/$订阅源
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt$订阅源
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt$订阅源
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
-凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$订阅源
 凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8$订阅源
+凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8$订阅源
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk$订阅源
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8$订阅源
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
@@ -482,8 +477,6 @@ NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7
 靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf$订阅源
 靖天戏剧,https://cdn12.178.indevs.in/163189/177d541552f78003$订阅源
 天映经典,https://o11.163189.xyz/stream/live/ccm/$订阅源
-天映经典,https://cdn10.163189.xyz/stream/163189/ccm/$订阅源
-天映经典,https://cdn10.163189.xyz/stream/163189/ccm/$订阅源
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv$订阅源
 
 🎥咪咕直播,#genre#
@@ -494,8 +487,8 @@ CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B$订阅源
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8$订阅源
 纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8$订阅源
 纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8$订阅源
-五星体育,https://cdn3.163189.xyz/163189/wxty$订阅源
 五星体育,https://iptv.catvod.com/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2$订阅源
+五星体育,https://cdn3.163189.xyz/163189/wxty$订阅源
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8$订阅源
 精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8$订阅源
 精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8$订阅源
